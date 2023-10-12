@@ -2,7 +2,7 @@ import { useState } from 'react'
 import ContactList from './ContactList'
 import ContactRow from './ContactRow';
 import './App.css'
-
+import SelectedContact from './SelectedContact';
 
 
 function App() {
